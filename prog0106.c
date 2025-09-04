@@ -3,10 +3,10 @@
 
 int main()
 {
-    printf("1-      Clientes\n");
-    printf("2-      Fornecedores\n");
-    printf("3-      Faturas\n\n");
-    printf("0-      Sair\n");
+    printf("1-      \tClientes\n"); /* \t para colocar uma tabulação horizontal */
+    printf("2-      \tFornecedores\n");
+    printf("3-      \tFaturas\n\n"); /* Mais uma linha em branco */
+    printf("0-      \tSair\n");
     
 
     return 0;
